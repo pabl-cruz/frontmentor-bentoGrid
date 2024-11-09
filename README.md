@@ -27,10 +27,9 @@ Users should be able to:
 
 ![](./preview.jpg)
 
-### Links
+### Link
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Netifly]([https://aesthetic-youtiao-cab4f8.netlify.app])
 
 ## My process
 
