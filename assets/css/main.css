@@ -52,3 +52,29 @@ p{
 .attribution a { 
     color: hsl(228, 45%, 44%); 
 }
+
+@media screen and (max-width: 768px){
+    .frame{
+        width: 375px;
+    }
+
+    h1{
+        font-size: 48px;
+        line-height: 2.75rem;
+    }
+
+    h2{
+        font-size: 36px;
+        line-height: 2rem;
+    }
+
+    footer{
+        top: 300%;
+    }
+}
+
+@media screen and (min-width: 769px) and (max-width: 1120px) {
+    .frame{
+        width: 768px;
+    }
+}
